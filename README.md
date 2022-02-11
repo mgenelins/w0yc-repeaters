@@ -7,12 +7,13 @@ Stuff on-air at St. Paul Campus:
 462.650 - WQCQ790 - "Metro 4"
 223.900 - KE0NA/R - "The Aggrandizer"
 147.150 - W0YC/R backup - 114.8hz
+444.425 - W0YC/R backup - 100.0hz
 ```
 
 Stuff off-air at St. Paul Campus:
 ```
 53.15 - W0YC/R - Simulcast of 147.150. Taken off-air 6/8/2021
-444.425 - W0YC/R backup - 100.0hz
+
 ```
 
 Stuff on-air at East Bank Campus:
@@ -29,4 +30,9 @@ Stuff off-air at East Bank Campus:
 147.150 - W0YC/R primary - 100.0hz - Waiting controller and antenna work
 453.xxx - nnnnn/R - Red Cross mutual aid repeater between Gopher Radio and Minneapolis Red Cross.
 ```
-  
+
+Stuff on-air at other sites:
+```
+224.820 - W0YC/R "22/82 HamLake" - Remote base needs work, controller audio levels, controller needs programming
+```
+
