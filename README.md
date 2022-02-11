@@ -3,7 +3,7 @@ Tracking issues with The Gopher Amateur Radio Club at The University of Minnesot
 
 Stuff on-air at St. Paul Campus:
 ```
-443.000 - N0YNT/R - Linked to receive-only 147.750 100.0hz. (Ch 75)
+443.000 - N0YNT/R - VHF Remote base is set to user-radio for backup 147.150 (100.0) (Ch 51). See Issue #11.
 462.650 - WQCQ790 - "Metro 4"
 223.900 - KE0NA/R - "The Aggrandizer"
 147.150 - W0YC/R backup - 114.8hz
