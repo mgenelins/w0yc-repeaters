@@ -21,7 +21,7 @@ Stuff on-air at East Bank Campus:
 444.425 - KA0KMJ/R - "The Blowtorch" 114.8
 144.390 - W0YC-5 - "Two-way APRS node"
 443.425 - W0YC/R  B - D-Star "First D-Star on the air in Minnesota"
-444.725 - NH7CY/R - DMR "First MotoTrbo / DMR System on the air in Minnesota", Connected to K4USD Network as of Oct 15, 2022.
+444.200 - NH7CY/R - DMR "First MotoTrbo / DMR System on the air in Minnesota", Connected to K4USD Network as of Oct 15, 2022. CC 11.
 ```
 
 Stuff off-air at East Bank Campus:
