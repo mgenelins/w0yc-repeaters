@@ -22,7 +22,7 @@ Stuff on-air at East Bank Campus:
 443.425 - W0YC/R  B - D-Star "First D-Star on the air in Minnesota"
 443.000 - NH7CY/R - DMR "First MotoTrbo / DMR System on the air in Minnesota", Connected to K4USD Network as of Oct 15, 2022. CC 11.
 147.150 - W0YC/R primary - 114.8hz - Motorola MSF 5000 connected to Mankato FM/P25 network. On air, but needs antenna work to get to 350 Watts.
-927.900 - NH7CY/R 162.2 / NAC 700 / DMR CC unknown. Needs duplexor nut replacement and re-tune-up.
+927.900 - NH7CY/R 162.2 / NAC 700 / DMR CC 1. Connected to Brandmeister. Needs new tuning rod lock nut for duplexer - on order as of 05/31 - and re-tune-up.
 ```
 
 Stuff off-air at East Bank Campus:
