@@ -22,6 +22,7 @@ Stuff on-air at East Bank Campus:
 443.425 - W0YC/R  B - D-Star "First D-Star on the air in Minnesota"
 443.000 - NH7CY/R - DMR "First MotoTrbo / DMR System on the air in Minnesota", Connected to K4USD Network as of Oct 15, 2022. CC 11.
 147.150 - W0YC/R primary - 114.8hz - Motorola MSF 5000 connected to Mankato FM/P25 network. On air, but needs antenna work to get to 350 Watts.
+927.900 - NH7CY/R 162.2 / NAC 700 / DMR CC unknown. Needs duplexor nut replacement and re-tune-up.
 ```
 
 Stuff off-air at East Bank Campus:
@@ -31,4 +32,6 @@ Stuff off-air at East Bank Campus:
 Stuff on-air at other sites:
 ```
 224.820 - W0YC/R "22/82 HamLake" - Remote base needs work, controller audio levels, controller needs programming
+927.925 - NH7CY/R 162.2 / NAC 700 / DM CC unknown. "West St. Paul" - Good performing system at Jason's QTH.
+224.940 - W0YC/R "The 94" - Parked at the Hamshack on a low-coverage antenna until a new site is found away from the Rosemount, MN repeater on the same channel.
 ```
