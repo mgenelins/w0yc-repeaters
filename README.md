@@ -3,16 +3,15 @@ Tracking issues with The Gopher Amateur Radio Club at The University of Minnesot
 
 Stuff on-air at St. Paul Campus:
 ```
-442.425 - K9MLS/R - "The P25 machine" - 114.8hz + P25 NAC 700
-462.650 - WQCQ790 - "Metro 4" - 141.3hz
-223.900 - KE0NA/R - "The Aggrandizer" - 100.0hz
-147.150 - W0YC/R backup to the Minneapolis System - 114.8hz
+442.425 - W0YC/R - "The P25 machine" - 114.8hz + P25 NAC 700. Donated to the club by Mike K9MLS in 2023.
+462.650 - WQCQ790 - "Metro 4" - 141.3hz - Shane Young, K0SEY and Matt Genelin N0YNT maintain this machine.
+223.900 - KE0NA/R - "The Aggrandizer" - 100.0hz - Todd KD0TLS, Dave KE0NA and Matt N0YNT maintain this machine.
 ```
 
 Stuff off-air at St. Paul Campus:
 ```
 443.000 - N0YNT/R - 118.8hz - VHF Remote base is set to user-radio for backup 147.150 (100.0) (Ch 51). See Issue #11.
-53.15 - W0YC/R - Simulcast of 147.150. Taken off-air 6/8/2021
+53.15 - W0YC/R - Simulcast of 147.150. Taken off-air 6/8/2021. New CDM purchased, waiting on antenna availability.
 444.425 - W0YC/R backup to the Minneapolis System - 100.0hz - Turned off 4/16/2022 due to lack of antennas.
 ```
 
@@ -21,12 +20,12 @@ Stuff on-air at East Bank Campus:
 444.425 - KA0KMJ/R - "The Blowtorch" 114.8
 144.390 - W0YC-5 - "Two-way APRS node"
 443.425 - W0YC/R  B - D-Star "First D-Star on the air in Minnesota"
-444.200 - NH7CY/R - DMR "First MotoTrbo / DMR System on the air in Minnesota", Connected to K4USD Network as of Oct 15, 2022. CC 11.
+443.000 - NH7CY/R - DMR "First MotoTrbo / DMR System on the air in Minnesota", Connected to K4USD Network as of Oct 15, 2022. CC 11.
+147.150 - W0YC/R primary - 114.8hz - Motorola MSF 5000 connected to Mankato FM/P25 network. On air, but needs antenna work to get to 350 Watts.
 ```
 
 Stuff off-air at East Bank Campus:
 ```
-147.150 - W0YC/R primary - 100.0hz - Waiting controller and antenna work
 ```
 
 Stuff on-air at other sites:
